@@ -1,6 +1,2 @@
-#Игнорировать 
-
+#ignor files .doc
 *.doc
-
-
-#ops
